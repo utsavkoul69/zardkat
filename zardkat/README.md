@@ -1,4 +1,4 @@
-# zardkat 🐱
+# Polygon project zardkat 
 
 A [hardhat-circom](https://github.com/projectsophon/hardhat-circom) template to generate zero-knowledge circuits, proofs, and solidity verifiers
 
